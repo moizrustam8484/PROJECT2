@@ -1,0 +1,19 @@
+[
+    {
+        "first_name": "Admin",
+        "last_name": "User",
+        "email": "admin@lib.com",
+        "password": "admin123",
+        "joined_date": "2025-04-17",
+        "role": "admin"
+    },
+    {
+        "first_name": "MOIZ",
+        "last_name": "RUSTAM",
+        "email": "moiz@lib.com",
+        "password": "moiz123",
+        "joined_date": "2025-04-17",
+        "role": "user"
+    }
+    
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "category": "sad",
+        "published_date": "2007-05-22"
+    },
+    {
+        "name": "The Fault in Our Stars",
+        "author": "John Green",
+        "category": "sad",
+        "published_date": "2012-01-10"
+    },
+    {
+        "name": "Batman: Year One",
+        "author": "Frank Miller",
+        "category": "comics",
+        "published_date": "1987-02-01"
+    },
+    {
+        "name": "Spider-Man: Blue",
+        "author": "Jeph Loeb & Tim Sale",
+        "category": "comics",
+        "published_date": "2002-07-01"
+    },
+    {
+        "name": "Deadpool Kills the Marvel Universe",
+        "author": "Cullen Bunn",
+        "category": "comics",
+        "published_date": "2012-08-01"
+    },
+    {
+        "name": "The Shining",
+        "author": "Stephen King",
+        "category": "horror",
+        "published_date": "1977-01-28"
+    },
+    {
+        "name": "Bird Box",
+        "author": "Josh Malerman",
+        "category": "horror",
+        "published_date": "2014-03-27"
+    },
+    {
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "category": "horror",
+        "published_date": "1897-05-26"
+    }
+]
